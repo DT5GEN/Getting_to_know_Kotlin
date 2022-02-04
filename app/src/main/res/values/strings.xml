@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Getting to know Kotlin</string>
+    <string name="in_object_text">in Object</string>
+    <string name="plus_cat">+ 1 котейка</string>
+    <string name="plus_bird">+ 1 птицa</string>
+    <string name="press">press</string>
+    <string name="hello_kotlin">Hello Kotlin!</string>
+    <string name="space" />
 </resources>
